@@ -1,5 +1,5 @@
 # Hola-Mundo
-Mi primer repositorio de GitHub
+Mi repositorio de prueba
 
-Autor: Diana
+Autor: Diana G
 Fecha: Febrero 2022
